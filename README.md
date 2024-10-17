@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @SASANTH NS
-- 👀 I’m interested in Dataanalysis
-- 🌱 I’m currently learning Data
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me sasanthnsasi@gmail.com
+Sales and Customer Analysis Project
+Project Overview
+This project focuses on analyzing sales, customer behavior, and operational performance data from a retail business dataset. The primary objective is to derive actionable insights that will assist in improving customer satisfaction, optimizing logistics, and enhancing sales strategies. The project explores various aspects of the business, such as revenue trends, delivery times, customer distribution, and payment methods.
 
 
-<!---
-SASANTHNS/SASANTHNS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
