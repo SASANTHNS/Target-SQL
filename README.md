@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SASANTH NS
 - 👀 I’m interested in Dataanalysis
 - 🌱 I’m currently learning Data
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me sasanthnsasi@gmail.com
 
 
